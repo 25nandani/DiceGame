@@ -1,1 +1,1 @@
-# DiceGame
+A simple and interactive Dice Game built using HTML, CSS, and JavaScript. This project demonstrates basic front-end web development concepts like DOM manipulation, event handling, and dynamic styling.
